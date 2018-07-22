@@ -1,0 +1,1 @@
+include ':app', ':lab_2', ':lab_3'
